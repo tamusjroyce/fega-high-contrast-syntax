@@ -1,4 +1,4 @@
-# Fega-high-contrast-syntax theme
+# Fega-high-contrast-syntax theme (visit https://github.com/fega/fega-high-contrast-syntax - just editing this to my own tastes!)
 
 A COLORFUL, dark theme for Atom, based on seti And Brahalla. [and derived from a more discrete fega-syntax](https://github.com/fega/fega-syntax)
 
